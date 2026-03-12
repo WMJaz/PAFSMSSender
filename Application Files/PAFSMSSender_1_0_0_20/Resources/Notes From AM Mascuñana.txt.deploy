@@ -1,0 +1,12 @@
+﻿Hi, this system is created by AM Jascha Mascuñana
+
+1) First and for most. Install Visual Studio 2019 on your Computer. 
+	-> https://visualstudio.microsoft.com/vs/older-downloads/
+
+	Once installed, just install the recommended framworks, especially VB.net.
+
+2) Then, also install Posgresql on your Computer. this time any version will do as long as PGAdmin (Only if not yet installed)
+	-> https://www.pgadmin.org/download/
+	
+	Download it here.
+	Once installed. Set up it and enter the password you want.
